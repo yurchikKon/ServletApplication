@@ -1,1 +1,1 @@
-Simple servlet application  1
+Simple servlet application  
