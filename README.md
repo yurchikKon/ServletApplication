@@ -1,1 +1,1 @@
-Simple servlet hello world application
+Simple servlet application
