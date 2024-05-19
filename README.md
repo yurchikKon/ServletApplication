@@ -1,1 +1,1 @@
-Simple servlet application
+Simple servlet application v1
