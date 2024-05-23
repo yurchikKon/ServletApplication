@@ -1,1 +1,1 @@
-Simple web application with servlets
+Simple web application
